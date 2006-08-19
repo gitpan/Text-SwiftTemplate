@@ -1,0 +1,19 @@
+---
+name: Text-SwiftTemplate
+version: 0.0701
+author:
+  - Kathryn Andersen
+abstract: 'a fast, lightweight template engine.'
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+build_requires:
+  Test::More: 0
+provides:
+  Text::SwiftTemplate:
+    file: lib/Text/SwiftTemplate.pm
+    version: 0.0701
+generated_by: Module::Build version 0.28
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2
